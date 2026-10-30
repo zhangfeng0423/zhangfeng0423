@@ -10,7 +10,6 @@ I build experimental tools for AI-assisted code review, product research, and ev
 | --- | --- | --- |
 | [Eval-Agent](https://github.com/zhangfeng0423/eval-agent) | Developers reviewing AI-generated code: bring execution results, quality assessments and human review together. / 为 AI 生成代码整理运行与评测证据。 | Start with the [saved sample assessment](https://github.com/zhangfeng0423/eval-agent/blob/master/case_01/eval_quality.json). Local experimental tool; no hosted trial listed. |
 | [App Review Research — fork](https://github.com/zhangfeng0423/qiaomu-app-review-insights) | Product builders researching App Store feedback. This branch explores country-aware research, history and opportunity analysis. / 探索从应用评价中整理问题与机会。 | Read the [usage guide](https://github.com/zhangfeng0423/qiaomu-app-review-insights/blob/main/docs/USAGE.md) and [branch changes](https://github.com/joeseesun/qiaomu-app-review-insights/compare/main...zhangfeng0423:qiaomu-app-review-insights:main). Based on [joeseesun’s project](https://github.com/joeseesun/qiaomu-app-review-insights); its upstream demo is not my deployment. |
-| [Guitar Tools](https://github.com/zhangfeng0423/guitar-tools) | Guitar learners looking for tuning, rhythm, fretboard and ear-training tools in one browser interface. / 浏览器里的吉他练习工具箱。 | Run locally using the repository instructions. Browser prototype; no hosted trial listed. |
 
 These are prototypes and experiments. End-to-end behavior and suitability for your use case need validation; repository documentation describes setup and limitations.
 
